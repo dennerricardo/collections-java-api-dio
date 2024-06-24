@@ -1,4 +1,4 @@
-package list.BasicOperations;
+package list.basicoperations;
 
 public class Item {
 	private String item;
