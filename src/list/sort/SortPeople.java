@@ -2,11 +2,7 @@ package list.sort;
 
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.Comparator;
 import java.util.List;
-
-import list.search.Book;
-import list.search.BooksCataloge;
 
 public class SortPeople {
 	private List<People> peopleList;
